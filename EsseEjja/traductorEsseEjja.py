@@ -869,7 +869,7 @@ diccionario = {
     "costoso" : "kiasosewiso",
     "caro" : "kianawe",
     "costurar" : "sokokani",
-    "" : "",
+    "hola" : "mundo",
     "" : "",
     "" : "",
     "" : "",
